@@ -1,0 +1,21 @@
+
+.container {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+.args {
+  display: none;
+  transition: all .3s;
+}
+
+.display {
+  display: block;
+}
+
+
+.canvas-wrapper {
+  /* transform: translate(-50%, 0%); */
+  transform: scale(0.5);
+  
+}
