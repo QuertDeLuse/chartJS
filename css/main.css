@@ -13,9 +13,6 @@
   display: block;
 }
 
-
-.canvas-wrapper {
-  /* transform: translate(-50%, 0%); */
-  transform: scale(0.5);
-  
+#Canvas {
+  max-width: 100%;
 }
